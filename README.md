@@ -1,2 +1,26 @@
-# social-media-lib
-social-media-lib is a simple library for interacting with various social media platforms. It provides easy-to-use functions for posting updates, retrieving feeds, and managing user interactions. The library is suitable for developers looking to integrate social media functionalities into their applications.
+# Social Media Library
+
+A simple library to interact with various social media platforms.
+
+## Features
+- Connect to multiple social media APIs.
+- Post updates, retrieve feeds, and manage user accounts.
+
+## Technologies
+- Python
+- Requests library for API calls
+
+## Usage
+1. Install the library using `pip install social-media-lib`.
+2. Import the library in your Python script:
+   ```python
+   from social_media_lib import SocialMedia
+   ```
+3. Initialize the library and start making API calls.
+
+## Future Plans
+- Add support for more social media platforms.
+- Implement user authentication.
+
+## Contribution
+Feel free to fork the repository and submit pull requests!
